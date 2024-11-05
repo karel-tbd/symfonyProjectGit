@@ -1,0 +1,6 @@
+imap:
+  connections:
+    example:
+      imap_path: "{outlook.office365.com:993/imap/ssl}Root/Folder"
+      username: "karel@tbd.be"
+      password: "!XE?j~M5.W_=HsN"

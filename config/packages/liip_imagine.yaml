@@ -1,0 +1,13 @@
+liip_imagine:
+  filter_sets:
+    small:
+      filters:
+        thumbnail: { size: [ 120, 90 ] }
+
+    normal:
+      filters:
+        thumbnail: { size: [ 240, 180 ] }
+
+    big:
+      filters:
+        thumbnail: { size: [ 360, 260 ] }
